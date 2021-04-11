@@ -3,7 +3,11 @@ project hackerthon
 
 {if}_ 해커톤
 
-팀명 (EagleHatX86)서비스 명 (통일을 앞둔 우리에게 필요한 서비스)'Flash Drives for Freedom' Movement![image](https://user-images.githubusercontent.com/44921791/114292838-73b24180-9acc-11eb-87a7-5f10e594002b.png)
+팀명 (EagleHatX86)
+
+서비스 명 (통일을 앞둔 우리에게 필요한 서비스)
+
+'Flash Drives for Freedom' Movement![image](https://user-images.githubusercontent.com/44921791/114292838-73b24180-9acc-11eb-87a7-5f10e594002b.png)
 
 서비스 개발 동기 
 
@@ -124,8 +128,11 @@ https://news.joins.com/article/16558635?fbclid=iwar3lukzfql7jfsfc_fyobcs5etav5wp
 
 
 협조를 통해 자료 및 사진을 이용 가능한 단체 및 언론사 
+
 https://www.facebook.com/NKNoChain/ https://www.facebook.com/SteppingStones527/
+
 https://nkwatchcon.com/
+
 http://www.bluetoday.net//news/articleList.html?sc_sub_section_code=S2![image](https://user-images.githubusercontent.com/44921791/114292897-dacff600-9acc-11eb-8060-cdaf83ca42b0.png)
 
 
