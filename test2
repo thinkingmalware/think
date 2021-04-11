@@ -1,0 +1,49 @@
+import requests
+import json
+import re
+from collections import OrderedDict
+
+#해당 페이지 url
+defaultUrl = "https://www.unikorea.go.kr/unikorea/business/NKHRCenter/archive/"
+
+response1 = requests.get('https://www.unikorea.go.kr/unikorea/business/NKHRCenter/archive/%27)
+response2 = requests.get('https://www.unikorea.go.kr/unikorea/business/NKHRCenter/archive/?mode=list&boardId=bbs_0000000000000011&searchCondition=all&searchKeyword=&pageIdx=2%27)
+
+html1 = response1.text
+html2 = response2.text
+
+from bs4 import BeautifulSoup
+soup1 = BeautifulSoup(html1,'html.parser')
+soup2 = BeautifulSoup(html2,'html.parser')
+
+tdTag1 = soup1.findall("td",class="title")
+tdTag2 = soup2.findall("td",class="title")
+
+Urls = []
+Names = []
+Bodies = []
+index = 0
+
+for tag in tdTag1:
+    Urls.append(defaultUrl + tag.find('a').attrs['href'] + '1')
+    Names.append('[통일부]'+tag.find('a').text.strip())
+    For_Response = requests.get(Urls[index])
+    For_Html = For_Response.text
+    For_Soup = BeautifulSoup(For_Html,'html.parser')
+    print(ForSoup.find("div",class="board-detail-content").find("div",class_="board_content").text.replace("<br />\n&nbsp;","").strip())
+    print(index)
+    index+=1
+for tag in tdTag2:
+    Urls.append(defaultUrl + tag.find('a').attrs['href'])
+    Names.append('[통일부]'+tag.find('a').text.strip())
+
+print(Bodies)
+
+
+'''
+Crawled_Urls = OrderedDict()
+Crawled_Urls["Urls"] = ;
+
+
+print(json.dumps(Crawled_Urls,ensure_ascii=False,indent="\t"))
+'''
