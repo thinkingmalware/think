@@ -129,11 +129,13 @@ https://news.joins.com/article/16558635?fbclid=iwar3lukzfql7jfsfc_fyobcs5etav5wp
 
 협조를 통해 자료 및 사진을 이용 가능한 단체 및 언론사 
 
-https://www.facebook.com/NKNoChain/ https://www.facebook.com/SteppingStones527/
+https://www.facebook.com/NKNoChain/
+
+https://www.facebook.com/SteppingStones527/
 
 https://nkwatchcon.com/
 
-http://www.bluetoday.net//news/articleList.html?sc_sub_section_code=S2![image](https://user-images.githubusercontent.com/44921791/114292897-dacff600-9acc-11eb-8060-cdaf83ca42b0.png)
+http://www.bluetoday.net//news/articleList.html?sc_sub_section_code=S2
 
 
 
