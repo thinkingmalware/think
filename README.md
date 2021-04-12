@@ -112,7 +112,7 @@ project hackerthon
 ![image](https://user-images.githubusercontent.com/44921791/114292889-c4c23580-9acc-11eb-8eaa-907aed12d109.png)
 
 
-핵심서비스 및 구현 방법
+핵심서비스 및 구현 방법 및 방안
 
 본문 
 
