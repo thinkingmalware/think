@@ -45,6 +45,7 @@ project hackerthon
 1. 문제인식 Background Research
 
 본문 
+
   ● 장마당서 몰래 파는 한국 DVD , CD 
   
   ● 검열 피하려 구매 않고 빌려와
@@ -128,7 +129,7 @@ Test: Jest + enzyme
 
 
 https://news.joins.com/article/16558635?fbclid=iwar3lukzfql7jfsfc_fyobcs5etav5wptx-jdiemiehaim7odimbzbopd3zg
-![image](https://user-images.githubusercontent.com/44921791/114292895-d277bb00-9acc-11eb-876f-631a1946167c.png)
+
 
 
 협조를 통해 자료 및 사진을 이용 가능한 단체 및 언론사 
