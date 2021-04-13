@@ -41,8 +41,6 @@ project hackerthon
        인권과 자유의 소중함을 일깨우기 위해 서비스를 시작하였다.  
        
        
-![image](https://user-images.githubusercontent.com/44921791/114292853-875da800-9acc-11eb-8719-e7bcc105836e.png)
-
 
 1. 문제인식 Background Research
 
