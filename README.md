@@ -1,5 +1,5 @@
 # think
-project hackerthon
+hackerthon project
 
 {if}_ 해커톤
 
