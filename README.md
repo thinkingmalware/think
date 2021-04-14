@@ -83,7 +83,7 @@ project hackerthon
    ● 북한 사상 미디어 통제 검열 조직 ‘109상무’ 
 남한의 영상물, 노래 등 금지 항목 세목별로 제시… 남한 가수 평양 공연 후 내부적으로는 더욱 통제 강화 지시⊙ 삼성 이재용 부회장 환영한 김정은… 뒤로는 ‘SAMSUNG’을 괴뢰상표로 지정⊙ 北 한류 확산 막기 위해 109상무 문건 작성⊙ “자기는 남한 공연 보면서 우리는 왜 통제하나”(北 주민)
    ● http://monthly.chosun.com/client/news/viw.asp?ctcd=H&nNewsNumb=201811100018
-![image](https://user-images.githubusercontent.com/44921791/114292869-a2c8b300-9acc-11eb-8d0f-5e783d64d8c2.png)
+
 
 해결방법
 -  본문 
@@ -99,7 +99,7 @@ project hackerthon
          업데이트함
          
     ●  네이버 실시간 검색 API를 활용하여 북한 뉴스를 업데이트함     
-![image](https://user-images.githubusercontent.com/44921791/114292887-bbd16400-9acc-11eb-98e7-76aea683b439.png)
+
 
 본문 
  ● 카카오톡,페이스북 페이지등 SNS 공유기능 
@@ -108,7 +108,7 @@ project hackerthon
  
  ● 사용 서비스 이용자 범위 사회적 문제에 관심이 많은 사람 또는 내외국인에게 북한 정보와 북한인권  
      운동에 직접 기여와 참여할 수 있는 프로젝트
-![image](https://user-images.githubusercontent.com/44921791/114292889-c4c23580-9acc-11eb-8eaa-907aed12d109.png)
+
 
 
 핵심서비스 및 구현 방법 및 방안
