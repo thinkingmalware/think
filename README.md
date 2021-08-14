@@ -68,7 +68,7 @@ hackerthon project
   “미 인권단체” 북한 기관지의 USB 유입 비판은 정보 두려움 입증하는 것” 
 ![image](https://user-images.githubusercontent.com/44921791/114292863-947a9700-9acc-11eb-89af-fc6e6fcd4f92.png)
 
-본문 
+-  본문 
 
    ● “북한, 종교활동 이유로 119명 처형 770명 수감”(미국 국무부,2018 국제 종교 자유 보고서 발표)
 
